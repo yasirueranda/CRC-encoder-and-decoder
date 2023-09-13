@@ -1,2 +1,7 @@
 # CRC-encoder-and-decoder
-CRC encoder and decoder Design using MATLAB
+Partial fulfilment for the module
+EN2054 : Communication Systems and Networks
+Department of Electronic and Telecommunication 
+University of Moratuwa
+
+
